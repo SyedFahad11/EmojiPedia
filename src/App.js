@@ -1,6 +1,7 @@
 import React from "react";
 import emojipedia from "./emojipedia";
 import Card from "./Card";
+import "./App.css";
 
 function Createcard(emojipedia)
 {
